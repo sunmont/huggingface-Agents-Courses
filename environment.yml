@@ -39,3 +39,11 @@ dependencies:
     - feedparser
     - twilio
     - pydub
+     - transformers
+    - trl
+    - peft
+    - accelerate
+    - bitsandbytes
+    - wandb
+    - flash-attn
+    
